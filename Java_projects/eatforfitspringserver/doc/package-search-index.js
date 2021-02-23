@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"de.smartcrew.eatforfitserver"},{"l":"de.smartcrew.eatforfitserver.constants"},{"l":"de.smartcrew.eatforfitserver.controller"},{"l":"de.smartcrew.eatforfitserver.entity"},{"l":"de.smartcrew.eatforfitserver.repository"}]

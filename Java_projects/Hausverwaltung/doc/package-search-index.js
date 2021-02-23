@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"de.akademie.hausverwaltung"},{"l":"de.akademie.hausverwaltung.mieter"},{"l":"de.akademie.hausverwaltung.zimmern"}]
