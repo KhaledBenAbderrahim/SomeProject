@@ -1,0 +1,635 @@
+==========================
+====== Kunden ======
+==========================
+Juni 09, 2020 12:18:38 NACHM. de.akademie.util.DatabaseAccess connectToDatabase
+INFORMATION: connected to database!
+------------------------------------------------------------- 
+Kundennummer: 1
+Herr Franco Romero
+Helmer 20
+Bremen 28359
+Festnetz: 0421/108778
+Mobil: 0176/98655096
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 2
+Herr Max Mustermann
+Musterstraße 1
+Musterhausen 12345
+Festnetz: 0421/123456789
+Mobil: 0176/123456789
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 3
+Frau Miriam Musterfrau
+Musterstraße 2
+Musterhausen 12345
+Festnetz: 0421/987654321
+Mobil: 0152/987654321
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 4
+Herr Antonio Greco
+Helmer 22
+Bremen 28359
+Festnetz: 0421/108765
+Mobil: 
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 5
+Herr Franco Greco
+Helmer 202
+Bremen 28359
+Festnetz: 0421/108777
+Mobil: 0176/98655090
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 13
+Frau Melinda Soffice
+Helmer 4
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 14
+Frau Melinda Soffice
+Helmer 4
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 15
+Frau Melinda Soffice
+Helmer 4
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 16
+Frau Melinda Soffice
+Helmer 4
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 17
+Frau Melinda Soffice
+Helmer 4
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 18
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 19
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 20
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 21
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 22
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 23
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 24
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 25
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 26
+Herr Gelsomina Felice
+Helmer 20
+Bremen 28359
+Festnetz: 0421108444
+Mobil: 017698655589
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 27
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 28
+Herr Gelsomina Felice
+Helmer 20
+Bremen 28359
+Festnetz: 0421108444
+Mobil: 017698655589
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 29
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 30
+Herr Gelsomina Felice
+Helmer 20
+Bremen 28359
+Festnetz: 0421108444
+Mobil: 017698655589
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 31
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 32
+Herr Gelsomina Felice
+Helmer 20
+Bremen 28359
+Festnetz: 0421108444
+Mobil: 017698655589
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 33
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 34
+Herr Gelsomina Felice
+Helmer 20
+Bremen 28359
+Festnetz: 0421108444
+Mobil: 017698655589
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 35
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 36
+Herr Gelsomina Felice
+Helmer 20
+Bremen 28359
+Festnetz: 0421108444
+Mobil: 017698655589
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 37
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 38
+Herr Gelsomina Felice
+Helmer 20
+Bremen 28359
+Festnetz: 0421108444
+Mobil: 017698655589
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 39
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 40
+Herr Gelsomina Felice
+Helmer 20
+Bremen 28359
+Festnetz: 0421108444
+Mobil: 017698655589
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 41
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 42
+Herr Gelsomina Felice
+Helmer 20
+Bremen 28359
+Festnetz: 0421108444
+Mobil: 017698655589
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 43
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 44
+Herr Gelsomina Felice
+Helmer 20
+Bremen 28359
+Festnetz: 0421108444
+Mobil: 017698655589
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 45
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 46
+Herr Gelsomina Felice
+Helmer 20
+Bremen 28359
+Festnetz: 0421108444
+Mobil: 017698655589
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 47
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 48
+Herr Gelsomina Felice
+Helmer 20
+Bremen 28359
+Festnetz: 0421108444
+Mobil: 017698655589
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 49
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 50
+Herr Gelsomina Felice
+Helmer 20
+Bremen 28359
+Festnetz: 0421108444
+Mobil: 017698655589
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 51
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 52
+Herr Gelsomina Felice
+Helmer 20
+Bremen 28359
+Festnetz: 0421108444
+Mobil: 017698655589
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 53
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 54
+Herr Gelsomina Felice
+Helmer 20
+Bremen 28359
+Festnetz: 0421108444
+Mobil: 017698655589
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 55
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 56
+Herr Gelsomina Felice
+Helmer 20
+Bremen 28359
+Festnetz: 0421108444
+Mobil: 017698655589
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 57
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 58
+Herr Gelsomina Felice
+Helmer 20
+Bremen 28359
+Festnetz: 0421108444
+Mobil: 017698655589
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 59
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 60
+Herr Gelsomina Felice
+Helmer 20
+Bremen 28359
+Festnetz: 0421108444
+Mobil: 017698655589
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 61
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 62
+Herr Gelsomina Felice
+Helmer 20
+Bremen 28359
+Festnetz: 0421108444
+Mobil: 017698655589
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 63
+Frau Melinda Soffice
+Helmer 6
+Bremen 28359
+Festnetz: 0421108765
+Mobil: 017698654689
+------------------------------------------------------------- 
+
+------------------------------------------------------------- 
+Kundennummer: 64
+Herr Gelsomina Felice
+Helmer 20
+Bremen 28359
+Festnetz: 0421108444
+Mobil: 017698655589
+------------------------------------------------------------- 
+
+==========================
+====== Mitarbeiter ======
+==========================
+==========================
+====== Beläge ======
+==========================
+Juni 09, 2020 12:18:38 NACHM. de.akademie.util.DatabaseAccess connectToDatabase
+INFORMATION: connected to database!
+------ Preise ------
+Belag: Tomatten, Preis: 5,00
+Belag: Kässe, Preis: 1,50
+Belag: Zwiebel, Preis: 1,00
+==========================
+====== Produkte ======
+==========================
+Juni 09, 2020 12:18:38 NACHM. de.akademie.util.DatabaseAccess connectToDatabase
+INFORMATION: connected to database!
+------ Get Alle Beläge ------
+Aglio e olio
+[Belag: Tomatten, Preis: 5,00, Belag: Kässe, Preis: 1,50]
+==========================
+====== Bestellungen ======
+==========================
+
+Juni 09, 2020 12:18:38 NACHM. de.akademie.util.DatabaseAccess connectToDatabase
+INFORMATION: connected to database!
+Before Database:
+Bestellung von :  Melinda
+Angenommen von Antonio
+bestellungID : 0
+die bestellung : [Pizza: Aglio e olio
+Größe: 0
+Preis: 6,50
+Beläge:
+Belag: Tomatten, Preis: 5,00
+Belag: Kässe, Preis: 1,50
+, Pizza: Aglio e olio
+Größe: 0
+Preis: 6,50
+Beläge:
+Belag: Tomatten, Preis: 5,00
+Belag: Kässe, Preis: 1,50
+, Pizza: Margarita
+Größe: 0
+Preis: 1,50
+Beläge:
+Belag: Kässe, Preis: 1,50
+, Baguette: Kässe Baguette
+Größe: null
+Preis: 1,50
+Beläge:
+[Belag: Kässe, Preis: 1,50], Baguette: Kässe Baguette
+Größe: null
+Preis: 1,50
+Beläge:
+[Belag: Kässe, Preis: 1,50]]
+AuslieferungDatum: 2020-06-09T12:48:38.869097200
+Preis: 17.5$
+
+
+After Database:
+Bestellung von :  Melinda
+Angenommen von Antonio
+bestellungID : 24
+die bestellung : [Pizza: Aglio e olio
+Größe: 0
+Preis: 6,50
+Beläge:
+Belag: Tomatten, Preis: 5,00
+Belag: Kässe, Preis: 1,50
+, Pizza: Aglio e olio
+Größe: 0
+Preis: 6,50
+Beläge:
+Belag: Tomatten, Preis: 5,00
+Belag: Kässe, Preis: 1,50
+, Pizza: Margarita
+Größe: 0
+Preis: 1,50
+Beläge:
+Belag: Kässe, Preis: 1,50
+, Baguette: Kässe Baguette
+Größe: null
+Preis: 1,50
+Beläge:
+[Belag: Kässe, Preis: 1,50], Baguette: Kässe Baguette
+Größe: null
+Preis: 1,50
+Beläge:
+[Belag: Kässe, Preis: 1,50]]
+AuslieferungDatum: 2020-06-09T12:48:38.869097200
+Preis: 17.5$
+
+Before Database:
+Bestellung von :  Gelsomina
+Angenommen von Franco
+bestellungID : 25
+die bestellung : []
+AuslieferungDatum: 2020-06-09T12:48:38.917082700
+Preis: 0.0$
+
+
+After Database:
+Bestellung von :  Gelsomina
+Angenommen von Franco
+bestellungID : 25
+die bestellung : [Pizza: Aglio e olio
+Größe: 0
+Preis: 6,50
+Beläge:
+Belag: Tomatten, Preis: 5,00
+Belag: Kässe, Preis: 1,50
+]
+AuslieferungDatum: 2020-06-09T12:48:38.917082700
+Preis: 6.5$
+
+1750

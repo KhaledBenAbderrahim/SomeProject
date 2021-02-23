@@ -1,0 +1,68 @@
+Pizzasorte	Belag (Zutaten)
+Aglio e olio	Tomatensauce, Knoblauch, Olivenöl
+Ai Broccoli	Tomatensauce, Mozzarella, Brokkoli, Knoblauch, Chilischoten, Oregano
+Al Salmone	Tomatensauce, Mozzarella, Lachs, Knoblauch
+Alla Vongole	Tomatensauce, Mozzarella, Knoblauch, Kleine Muscheln, Chilipulver
+Alle Verdure Grigliate	Tomatensauce, Mozzarella, Gegrilltes Gemüse
+Anchovis	Tomatensauce, Mozzarella, Sardellen, Knoblauch, Scharfe Chilischoten
+Bianca	Ricotta, Mozzarella, Knoblauch
+Bolognese	Bolognese Sauce, Mozzarella
+Calabrese	Tomatensauce, Parmiggiano Reggiano (Parmesan), Thunfisch, Oliven, Kapern, Knoblauch, Zwiebeln, Scharfe kalabrische Chilischoten
+Calabria (Spianata calabrese piccante)	Tomatensauce, Mozzarella, Spianata calabrese piccante (Scharfe Italienische Salami aus Kalabrien), scharfe kalabrische Chilis
+Calzone	Gefaltete Pizza, die Zutaten variieren
+Caprese	Tomatensauce, Mozarella, Kirschtomaten
+Capri	Tomatensauce, Mozzarella, Rucola, Kirschtomaten, Parmigiano Reggiano (Parmesan)
+Capricciosa	Tomatensauce, Mozzarella, Pilze, Artischocken, gekochter Schinken, Oliven, Olivenöl
+Caprina	Tomatensauce, Ziegenkäse, die anderen Zutaten variieren und können folgendes beinhalten: Rucola, Chilis, Baby Spinat Blätter, Oliven, Olivenöl
+Carbonara	Pecorino Romano Käse, Sahne, Frühlingszwiebeln, Eier, schwarzer Pfeffer
+Carciofi	Tomatensauce, Mozzarella, Artischocken
+Carpaccio	Tomatensauce, Mozzarella, Rindercarpaccio, Rucola, Parmigiano Reggiano (Parmesan)
+Cipolla	Tomatensauce, Mozzarella, Zwiebeln, Oregano
+Contadina	Tomatensauce, Mozzarella, Auberginen, Artischocken, Knoblauch, Basilikum
+Con Cozze	Muscheln, Knoblauch, Olivenöl, Petersilie
+Diavola	Tomatensauce, Mozzarella, Scharfe Italienische Salami, scharfe Chilis
+Etna	Tomatensauce, Mozzarella, Sardellen, Kapern, Oliven
+Frutti di Mare	Meeresfrüchte Pizza mit Tomatensauce, Mozzarella, Meeresfrüchten, oft mit Venusmuscheln (Vongole), Tigergarnelen und Miesmuscheln als Belag
+Funghi	Tomatensauce, Mozzarella, frische Champignons
+Gamberetti	Tomatensauce, Mozzarella, Garnelen (Gamberetti)
+Mamma Mia	Tomatensauce, Mozzarella, Thunfisch, Pfeffer, Mais, Zwiebeln
+Margherita	Tomatensauce, Mozzarella, Olivenöl, Basilikumblätter
+Mari e monte	Tomaten, Meeresfrüchte, Champignons, Knoblauch, Zwiebeln
+Marinara	Marinara Sauce, Knoblauch, Olivenöl, Basilikum, Oregano
+Mazza	Tomatensauce, Mozzarella, Speck, Eier, Zwiebeln, Chilischoten
+Mozzarella	Tomatensauce, Büffelmozzarella
+Napoletana	Tomatensauce, Mozzarella, Sardellen und Olivenöl
+Napoli	Tomatensauce, Mozzarella, Kapern, Sardellen, Olivenöl
+O Sole Mio	Tomatensauce, Mozzarella, Schinken, Salami, Ei, Zwiebeln
+Parma (Parmaschinken)	Tomatensauce, Mozzarella, Parmaschinken, Rucola, Kirschtomaten
+Peperoni	Tomatensauce, Mozzarella, Chilis
+Piccantino	Tomatensauce, Mozzarella, Salame Piccantino (Scharfe Italienische Salami)
+Pizza al taglio (al trancio)	Die Beläge variieren, die Pizza wird in großen rechteckigen Blechen gebacken
+Pizzabrot	Zutaten und Form variieren, es wird meist keine Tomatensauce verwendet
+Prosciutto	Tomatensauce, Mozzarella, Prosciutto (italienischer Schinken)
+Prosciutto Salami	Tomatensauce, Mozzarella, Prosciutto, Salami
+Schinken und Pilze	Tomatensauce, Mozzarella, Prosciutto, Pilze
+Pugliese	Tomatensauce, Mozzarella und Zwiebeln
+Quattro Formaggi	Tomatensauce, vier verschiedene Käsesorten (Mozzarella, Gorgonzola Piccante, Parmigiano Reggiano, Pecorino)
+Quattro Stationi	Pizza Vier-Jahreszeiten mit Tomatensauce, Mozzarella, Parmesan, Basilikum, Pilzen, Artischocken, gekochtem Schinken, Oliven, Olivenöl
+Regina	Tomatensauce, Mozzarella, Schinken, Champignons
+Romana	Tomatensauce, Mozzarella, Sardellen, Oregano, Olivenöl
+Rusticana	Tomatensauce, Büffel-Ricotta, Austernpilze
+Salame	Tomatensauce, Mozzarella, italienische Salami
+Salmone	Tomatensauce, Mascarpone Käse, Räucherlachs und Rucola (Rucola)
+Salsiccia	Tomatensauce, Mozzarella, Salsiccia, Radicchio Trevisano
+Sardenaira (Pizza all’Andrea)	Tomatensauce, gesalzene Sardellen, Oliven, Knoblauchzehen, Kapern
+Siciliana	Tomatensauce, Mozzarella, Knoblauch, Salami, Peperoni, Olivenöl
+Siciliana Bianca	Vier Käse, Sardellen, Kapern
+Speziale	Tomatensauce, Mozzarella, Schinken, Salami, Champignons, Oliven, Artischocke
+Spinaci	Tomatensauce, Mozzarella, Spinat, Salz, Pfeffer, Olivenöl
+Spinaci und Uovo	Tomatensauce, Mozzarella, Spinat, Salz, Pfeffer, Olivenöl, Ei
+Spinaci e Gorgonzola	Tomatensauce, Gorgonzola, Spinat
+Tartufata	Mozzarella, Pilze, Austernpilze, Rucola, Parmesan, Trüffelöl
+Tirolese	Tomatensauce, Stracchino Käse, Speck (geräucherter Schinken), manchmal Pilze
+Tonno (al Tonno, Thunfisch)	Tomatensauce, Mozzarella, Thunfisch
+Tonno e Cipola	Tomatensauce, Mozzarella, Thunfisch, Zwiebeln
+Toskana	Tomatensauce, Pecorino Käse, Paprika, Sardellen oder Thunfisch, frische Basilikumblätter
+Vegetariana (Verdure, Ortolana)	Tomatensauce, Mozzarella, Gemüse
+Wiener	Tomatensauce, Mozzarella, Wiener Würstchen, Oregano, Olivenöl
+Vitello Tonnato	Tomatensauce, Kapern, Rucola, Kalbsschnitzel, Sardellenfilets, Knoblauch, schwarzer Pfeffer
