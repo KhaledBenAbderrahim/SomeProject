@@ -2,7 +2,7 @@
 
 ## The Problem
 
-We want you to create a command-line application that will calculate the
+I create a command-line application that will calculate the
 ranking table for a sports league.
 
 ### Input/output
