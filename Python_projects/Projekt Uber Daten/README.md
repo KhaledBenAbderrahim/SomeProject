@@ -1,4 +1,4 @@
-<h1 align="center" width="100%"  >
+<h1  width="100%"  >
     Uber Daten : Data pre-processing und Visualisierung
 </h1>
 
